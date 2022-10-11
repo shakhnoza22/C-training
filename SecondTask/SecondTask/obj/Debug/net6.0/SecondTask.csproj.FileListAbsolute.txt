@@ -1,0 +1,15 @@
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.deps.json
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.runtimeconfig.json
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.dll
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.pdb
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.csproj.AssemblyReference.cache
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.AssemblyInfoInputs.cache
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.AssemblyInfo.cs
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.csproj.CoreCompileInputs.cache
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.dll
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/refint/SecondTask.dll
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.pdb
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.genruntimeconfig.cache
+/Users/shakhnozaniazova/Projects/SecondTask/SecondTask/obj/Debug/net6.0/ref/SecondTask.dll
